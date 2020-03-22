@@ -1,0 +1,35 @@
+.moon-image{
+  max-width: 90%;
+  height: auto;
+
+}
+
+.bottom-border{
+  border-bottom: 5px solid grey;
+  
+}
+
+.white-text{
+  color: white;
+}
+
+.container{
+  background-image: url("https://i.redd.it/nl8fczkpsbu31.png");
+  
+  background-size: cover;
+  height: auto;
+
+}
+
+#cheese-counter{
+  max-width: 30%;
+}
+
+.store-margin{
+  margin-bottom: 40px;
+}
+
+.text-spacing{
+  padding-left: 20px;
+  padding-right: 20px;
+}
